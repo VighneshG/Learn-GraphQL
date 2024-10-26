@@ -1,0 +1,10 @@
+To level up, you can introduce Apollo Server (for production-ready GraphQL features) 
+and TypeGraphQL (which makes it easier to build schemas using TypeScript classes).
+
+1. Apollo Server:
+
+Replace express-graphql with apollo-server-express for more options with caching, subscriptions, etc.
+
+2. TypeGraphQL:
+
+TypeGraphQL leverages decorators and Typescript’s type system for a cleaner setup.
